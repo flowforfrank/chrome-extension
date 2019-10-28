@@ -1,0 +1,12 @@
+{
+    "name": "Tasty",
+    "version": "1.0",
+    "description": "Import ingredients from a tasty page to create a shopping list",
+    "manifest_version": 2,
+    "icons": {
+        "16": "imgs/16.png",
+        "32": "imgs/32.png",
+        "48": "imgs/48.png",
+        "128": "imgs/128.png"
+    }
+}
