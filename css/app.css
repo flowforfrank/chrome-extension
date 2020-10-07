@@ -11,8 +11,19 @@ body {
     display: block;
 }
 
+.disclaimer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    color: #FFF;
+}
+
+.disclaimer strong {
+    display: block;
+}
+
 .hidden {
-    display: none;
+    display: none !important;
 }
 
 .import, .clear {
